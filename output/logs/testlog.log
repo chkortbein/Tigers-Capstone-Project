@@ -1,0 +1,77 @@
+2022-07-12 21:14:45,952 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-31 00:23:14,651 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 00:27:39,894 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 00:43:35,796 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 00:57:01,791 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 01:03:30,238 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 01:25:26,773 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 01:32:11,605 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 01:49:45,518 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 01:49:50,270 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 01:49:50,339 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 01:49:50,897 - .\src\test\resources\input\log4j.properties -INFO - Register link was clicked successfully
+2022-07-31 02:09:35,541 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 02:09:38,557 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:09:38,615 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:09:39,200 - .\src\test\resources\input\log4j.properties -INFO - Register link was clicked successfully
+2022-07-31 02:12:29,001 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website started
+2022-07-31 02:12:32,095 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:12:32,171 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:12:32,795 - .\src\test\resources\input\log4j.properties -INFO - Register link was clicked successfully
+2022-07-31 02:12:33,453 - .\src\test\resources\input\log4j.properties -INFO - Registeration form is filled-out successfully
+2022-07-31 02:12:33,576 - .\src\test\resources\input\log4j.properties -INFO - YES for newsletter was clicked successfully
+2022-07-31 02:12:33,689 - .\src\test\resources\input\log4j.properties -INFO - check box for privacy policy was clicked successfully
+2022-07-31 02:12:34,156 - .\src\test\resources\input\log4j.properties -INFO - Continue button was clicked successfully
+2022-07-31 02:12:34,347 - .\src\test\resources\input\log4j.properties -INFO - Expected & Actual Text was verified successfully
+2022-07-31 02:12:35,094 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register with Test Environment Website PASSED
+2022-07-31 02:15:09,763 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 02:15:12,750 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:15:12,810 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:15:13,053 - .\src\test\resources\input\log4j.properties -INFO - Login link was clicked successfully
+2022-07-31 02:15:13,208 - .\src\test\resources\input\log4j.properties -INFO - Email and password were entered successfully
+2022-07-31 02:15:13,519 - .\src\test\resources\input\log4j.properties -INFO - Login button was clicked successfully
+2022-07-31 02:15:13,548 - .\src\test\resources\input\log4j.properties -INFO - My Account text was verified successfully
+2022-07-31 02:15:14,282 - .\src\test\resources\input\log4j.properties -INFO - Affiliate form is filled out successfully
+2022-07-31 02:15:15,612 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 02:15:15,612 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 02:15:18,048 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:15:18,124 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:15:18,343 - .\src\test\resources\input\log4j.properties -INFO - Login link was clicked successfully
+2022-07-31 02:15:18,518 - .\src\test\resources\input\log4j.properties -INFO - Email and password were entered successfully
+2022-07-31 02:15:18,824 - .\src\test\resources\input\log4j.properties -INFO - Login button was clicked successfully
+2022-07-31 02:15:18,848 - .\src\test\resources\input\log4j.properties -INFO - My Account text was verified successfully
+2022-07-31 02:15:19,618 - .\src\test\resources\input\log4j.properties -INFO - Bank account form is filled-out successfully
+2022-07-31 02:15:20,714 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 02:15:20,724 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 02:15:23,073 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:15:23,151 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:15:23,375 - .\src\test\resources\input\log4j.properties -INFO - Login link was clicked successfully
+2022-07-31 02:15:23,494 - .\src\test\resources\input\log4j.properties -INFO - Email and password were entered successfully
+2022-07-31 02:15:23,816 - .\src\test\resources\input\log4j.properties -INFO - Login button was clicked successfully
+2022-07-31 02:15:23,850 - .\src\test\resources\input\log4j.properties -INFO - My Account text was verified successfully
+2022-07-31 02:15:25,177 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-07-31 02:22:49,291 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-31 02:22:52,284 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:22:52,338 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:22:52,562 - .\src\test\resources\input\log4j.properties -INFO - Login link was clicked successfully
+2022-07-31 02:22:52,721 - .\src\test\resources\input\log4j.properties -INFO - Email and password were entered successfully
+2022-07-31 02:22:53,063 - .\src\test\resources\input\log4j.properties -INFO - Login button was clicked successfully
+2022-07-31 02:22:53,093 - .\src\test\resources\input\log4j.properties -INFO - My Account text was verified successfully
+2022-07-31 02:23:23,970 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-31 02:23:24,008 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-31 02:23:26,323 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:23:26,418 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:23:26,645 - .\src\test\resources\input\log4j.properties -INFO - Login link was clicked successfully
+2022-07-31 02:23:26,793 - .\src\test\resources\input\log4j.properties -INFO - Email and password were entered successfully
+2022-07-31 02:23:27,086 - .\src\test\resources\input\log4j.properties -INFO - Login button was clicked successfully
+2022-07-31 02:23:27,125 - .\src\test\resources\input\log4j.properties -INFO - My Account text was verified successfully
+2022-07-31 02:23:27,900 - .\src\test\resources\input\log4j.properties -INFO - Bank account form is filled-out successfully
+2022-07-31 02:23:29,006 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-31 02:23:29,024 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-07-31 02:23:31,339 - .\src\test\resources\input\log4j.properties -INFO - Text Test Environment was verified
+2022-07-31 02:23:31,409 - .\src\test\resources\input\log4j.properties -INFO - My Account button was clicked successfully
+2022-07-31 02:23:31,633 - .\src\test\resources\input\log4j.properties -INFO - Login link was clicked successfully
+2022-07-31 02:23:31,782 - .\src\test\resources\input\log4j.properties -INFO - Email and password were entered successfully
+2022-07-31 02:23:32,108 - .\src\test\resources\input\log4j.properties -INFO - Login button was clicked successfully
+2022-07-31 02:23:32,143 - .\src\test\resources\input\log4j.properties -INFO - My Account text was verified successfully
+2022-07-31 02:23:33,542 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED

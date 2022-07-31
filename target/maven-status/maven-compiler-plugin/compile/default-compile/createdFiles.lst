@@ -1,0 +1,8 @@
+page\objects\LaptopPageObject.class
+page\objects\DesktopsPageObject.class
+page\objects\HomePageObject.class
+utilities\Utils.class
+core\Base.class
+page\objects\RetailPageObj.class
+utilities\CucumberReportingConfig.class
+page\objects\RegisterPageObj.class
